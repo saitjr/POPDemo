@@ -15,7 +15,7 @@ protocol BurgerButtonManager {
 extension BurgerButtonManager where Self: UIViewController {
     func needBurgerButton() {
         let burgerButton = UIBarButtonItem(title: "菜单", style: .Plain) {
-            print("123123")
+            print("菜单显示")
         }
         self.navigationItem.leftBarButtonItem = burgerButton
     }
