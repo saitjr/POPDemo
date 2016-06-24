@@ -41,6 +41,17 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		961DA8951D1DA83A004E1E1E /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				96348E981C671ACB00101AA9 /* Main.storyboard */,
+				96348E9B1C671ACB00101AA9 /* Assets.xcassets */,
+				96348E9D1C671ACB00101AA9 /* LaunchScreen.storyboard */,
+				96348EA01C671ACB00101AA9 /* Info.plist */,
+			);
+			name = "Support Files";
+			sourceTree = "<group>";
+		};
 		96348E881C671ACB00101AA9 = {
 			isa = PBXGroup;
 			children = (
@@ -65,10 +76,7 @@
 				96348ECE1C68BD3C00101AA9 /* ViewController2.swift */,
 				96348EA61C671BB200101AA9 /* BurgerButtonManager.swift */,
 				96348EAC1C676E8700101AA9 /* UIBarButtonItem+STBlock.swift */,
-				96348E981C671ACB00101AA9 /* Main.storyboard */,
-				96348E9B1C671ACB00101AA9 /* Assets.xcassets */,
-				96348E9D1C671ACB00101AA9 /* LaunchScreen.storyboard */,
-				96348EA01C671ACB00101AA9 /* Info.plist */,
+				961DA8951D1DA83A004E1E1E /* Support Files */,
 			);
 			path = "BurgerButtonManager-runtime";
 			sourceTree = "<group>";

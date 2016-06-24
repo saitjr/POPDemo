@@ -39,6 +39,17 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		961DA8961D1DA84E004E1E1E /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				96348EBE1C68715600101AA9 /* Main.storyboard */,
+				96348EC11C68715600101AA9 /* Assets.xcassets */,
+				96348EC31C68715600101AA9 /* LaunchScreen.storyboard */,
+				96348EC61C68715600101AA9 /* Info.plist */,
+			);
+			name = "Support Files";
+			sourceTree = "<group>";
+		};
 		96348EAE1C68715600101AA9 = {
 			isa = PBXGroup;
 			children = (
@@ -62,10 +73,7 @@
 				96348EBC1C68715600101AA9 /* ViewController.swift */,
 				96B3AFA81C71C1870027B55E /* ViewController2.swift */,
 				96348ECC1C68717700101AA9 /* BurgerButtonManager.swift */,
-				96348EBE1C68715600101AA9 /* Main.storyboard */,
-				96348EC11C68715600101AA9 /* Assets.xcassets */,
-				96348EC31C68715600101AA9 /* LaunchScreen.storyboard */,
-				96348EC61C68715600101AA9 /* Info.plist */,
+				961DA8961D1DA84E004E1E1E /* Support Files */,
 			);
 			path = "BurgerButtonManager-class";
 			sourceTree = "<group>";

@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:BurgerButtonManager-class/BurgerButtonManager-class.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:BurgerButtonManager-runtime/BurgerButtonManager-runtime.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:LoadingViewController/LoadingViewController.xcodeproj">
    </FileRef>
 </Workspace>
